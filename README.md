@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Dannylo dangel wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eudangeld)](https://github.com/anuraghazra/github-readme-stats)
+![Salve....](https://github-readme-stats.vercel.app/api?username=dannylodangel&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eudangeld)](https://github.com/anuraghazra/github-readme-stats)
 
 
