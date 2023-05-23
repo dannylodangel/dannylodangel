@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![](https://raw.githubusercontent.com/dannylodangel/dannylodangel/main/profile-summary-card-output/maroongold/0-profile-details.svg)
 ![Snake animation](https://github.com/dannylodangel/blob/output/github-contribution-grid-snake.svg)
